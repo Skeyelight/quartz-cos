@@ -258,8 +258,9 @@ plugins:
         - description
         - tags
         - aliases
+        - draft
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5
