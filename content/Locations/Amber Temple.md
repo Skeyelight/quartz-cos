@@ -1,7 +1,4 @@
 ---
 title: "Amber Temple"
 ---
-
-# Amber Temple
-
-Notes coming soon...
+You have yet to explore this area. 

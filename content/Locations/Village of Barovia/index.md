@@ -1,8 +1,5 @@
 ---
-title: "Village of Barovia"
-sidebar:
-  label: "Overview"
-  order: 2
+title: Village of Barovia
 ---
 - [[Bildrath’s Mercantile]]
 - [[Blood of the Vine Tavern]]

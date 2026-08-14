@@ -1,7 +1,4 @@
 ---
 title: "Ruins of Berez"
 ---
-
-# Ruins of Berez
-
-Notes coming soon...
+You have yet to explore this area. 

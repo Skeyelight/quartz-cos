@@ -1,7 +1,4 @@
 ---
 title: "Argynvostholt"
 ---
-
-# Argynvostholt
-
-Notes coming soon...
+You have yet to explore this area. 
