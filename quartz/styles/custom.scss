@@ -1,3 +1,8 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+/* Hide Quartz automatic folder listing and count on folder pages */
+.page-listing,
+.folder-outer {
+  display: none !important;
+}
