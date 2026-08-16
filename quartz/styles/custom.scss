@@ -6,3 +6,16 @@
 .folder-outer {
   display: none !important;
 }
+
+/* Remove pill/highlight styling from internal wikilinks */
+a.internal {
+  background-color: transparent !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+    background-color: transparent !important;
+  }
+}
